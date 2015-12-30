@@ -1,0 +1,14 @@
+layout_spectrum: 0.2007169
+typography_spectrum: 0.8566308
+color:
+  saturation: 0.2903226
+  lightness: 1
+  brandStrength: 1
+  rhythmicContrast: 0.2953377
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: 'Passion & Creativity'
