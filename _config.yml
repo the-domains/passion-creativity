@@ -1,14 +1,28 @@
+name: 'Passion & Creativity'
+favicon: null
 layout_spectrum: 0.2007169
 typography_spectrum: 0.8566308
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2903226
-  lightness: 1
-  brandStrength: 1
-  rhythmicContrast: 0.2953377
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-name: 'Passion & Creativity'
+    - '#050708'
+    - '#ffffff'
+    - '#929191'
+    - '#c6c5c5'
+    - '#676564'
+  brandStrength: 0.5625
+  lightness: 1
+  saturation: 0.2903226
+  rhythmicContrast: 0.2953377
+purpose: []
